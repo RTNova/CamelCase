@@ -2,6 +2,18 @@ import java.util.Arrays;
 
 class Solution{
 
+    /**
+     * Clase con metodos que trabajan con strings
+     * @method public static String toCamelCase(String str) {}
+     *
+     * @examples "the-stealth-warrior" gets converted to "theStealthWarrior"
+     *
+     * "The_Stealth_Warrior" gets converted to "TheStealthWarrior"
+     *
+     * "The_Stealth-Warrior" gets converted to "TheStealthWarrior"
+     *
+     */
+
     public Solution() {}
 
     public static String toCamelCase(String str){
