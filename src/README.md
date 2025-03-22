@@ -5,12 +5,12 @@ disqus: hackmd
 
 Kata2. String a CamelCase
 ===
+>***Owner del proyecto: RTNova***
 
 User story
 ---
 
 ```gherkin=
-Feature: Guess the word
 
   # Clase con metodos que trabajan con strings
   Escenario: El usuario introduce un String.
@@ -108,4 +108,3 @@ public class SolutionTest {
 @param      "The_Stealth-Warrior"
 @returns    "TheStealthWarrior"
 ```
-
